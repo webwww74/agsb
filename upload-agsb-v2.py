@@ -34,7 +34,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "apa-argo"         # 用户名
 UUID = "af12c030-22a5-4c4f-913d-2fb31b9a3953"                     # UUID，留空则自动生成
 PORT = 38409                   # Vmess端口，留空或0则自动生成
-DOMAIN = ""                   # 域名，留空则自动获取
+DOMAIN = "argo.163841.xyz"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiNTg2M2Y1OTJlMjkzMjg1MzgyZThlM2EzZDEzMmJjYWQiLCJ0IjoiOGJmNDRlZGYtYmU2Ny00YzdlLTg0NDktNDU2YzU2NmEzYWFkIiwicyI6Ik5EWTFNV0ZrT1dZdE9XVm1NUzAwWTJJNUxXRXpPV1l0WlRZNVpqUmhaRFppWmpBNCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
